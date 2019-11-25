@@ -1,5 +1,7 @@
 # Sorterealgoritmen - profielwerkstuk 2020
 
+[Plan van Aanpak](documents/Plan-van-Aanpak.md)
+
 ## Chapters
 
 1. [Hoofdstuk 1 - Inleiding](documents/chapters/Hoofdstuk-1-Inleiding.md)
