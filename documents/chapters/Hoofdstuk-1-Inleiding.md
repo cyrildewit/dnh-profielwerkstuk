@@ -13,3 +13,12 @@ Het domein van algoritmen reikt heel ver. Zo vallen algoritmen hieronder die een
 ## 1.3 Hoofdvraag en deelvraag
 
 ## 1.4 Methodiek en bronnen
+
+---
+
+### Bronnen
+
+| Auteur | Jaartal | Link |
+|--------|---------|------|
+| _n.v.t._ | _n.v.t._ | [https://nl.wix.com/about/us](https://nl.wix.com/about/us) |
+| University of Cantebury, New Zealand | _n.v.t._ | [https://www.csfieldguide.org.nz/en/chapters/introduction/](https://www.csfieldguide.org.nz/en/chapters/introduction/) |
