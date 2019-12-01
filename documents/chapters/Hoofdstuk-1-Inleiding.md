@@ -8,7 +8,7 @@ Al snel stuitte ik op het idee om onderzoek te doen naar ‘algoritmen’. Algor
 
 ## 1.2 Afbakening
 
-Het domein van algoritmen reikt heel ver. Zo vallen algoritmen hieronder die een specifiek probleem oplossen, zoals Google’s zoekalgoritme (PageRank) of een algoritme die banktransactie afhandelt. Als je
+Het domein van algoritmen reikt heel ver. Zo vallen algoritmen hieronder die een specifiek probleem oplossen, zoals Google’s zoekalgoritme (PageRank) of een algoritme die banktransactie afhandelt. Er zijn ook algoritmen die een veel breder doeleinde hebben. Neem als voorbeeld
 
 ## 1.3 Hoofdvraag en deelvraag
 
