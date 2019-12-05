@@ -22,12 +22,3 @@ De hoofdvraag wordt beantwoord aan de hand van de volgende deelvragen:
 6. Welke praktische voorbeelden zijn er die goed laten zien waarom er voor een bepaald sorteeralgoritme wordt gekozen?
 
 ## 1.4 Methodiek en bronnen
-
----
-
-### Bronnen
-
-| Auteur | Jaartal | Link |
-|--------|---------|------|
-| _n.v.t._ | _n.v.t._ | [https://nl.wix.com/about/us](https://nl.wix.com/about/us) |
-| University of Cantebury, New Zealand | _n.v.t._ | [https://www.csfieldguide.org.nz/en/chapters/introduction/](https://www.csfieldguide.org.nz/en/chapters/introduction/) |
