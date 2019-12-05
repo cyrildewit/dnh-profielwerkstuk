@@ -14,14 +14,14 @@ In dit onderzoek ga ik analyseren waarin sorteeralgoritmen zich onderscheiden en
 
 De hoofdvraag wordt beantwoord aan de hand van de volgende deelvragen:
 
-## 1.4 Methodiek en bronnen
-
 1. Wat is een (computer) algoritme?
 2. Wat is een sorteeralgoritme?
 3. Welke sorteeralgoritmen zijn er beschikbaar?
 4. Welke factoren spelen een rol in een sorteervraagstuk?
 5. Waarin kunnen sorteeralgoritmen zich onderscheiden?
 6. Welke praktische voorbeelden zijn er die goed laten zien waarom er voor een bepaald sorteeralgoritme wordt gekozen?
+
+## 1.4 Methodiek en bronnen
 
 ---
 
