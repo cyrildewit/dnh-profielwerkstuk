@@ -1,14 +1,12 @@
 # Hoofdstuk 1 - Introductie tot algoritmen
 
-## 1.1 Wat is een algoritme?
+## 1.1 Een eeuwenoud concept
 
-## 1.2 Algoritmen in het dagelijks leven
+## 1.2 Algoritme van Euclides
 
-## 1.3 Woordherkomst
+## 1.3 Definitie - Algoritme
 
-## 1.4 Kenmerken
-
-## 1.5 Soorten algoritmen
+## 1.4 Soorten algoritmen
 
 ---
 
