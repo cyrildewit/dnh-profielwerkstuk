@@ -106,6 +106,9 @@ def heapSort(arr, n):
         arr[i], arr[0] = arr[0], arr[i]  # swap
         heapify(arr, i, 0)
 
+
+# generateListFile("list-data-one.txt")
+
 """ -------------------------------------------------------------------------"""
 
 A = fetchList("list-data-one.txt")
@@ -134,7 +137,3 @@ print("\nHeap Sort: ")
 print(str(end - start) + "ms")
 
 """ -------------------------------------------------------------------------"""
-
-# generateListFile("list-data-one.txt")
-
-# A = [6, 4, 3, 2, 1, 4, 3, 6, 6, 2, 4, 3, 4]
